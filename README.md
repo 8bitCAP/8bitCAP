@@ -11,15 +11,15 @@ const 8bitCAP = {
 
 
 <br>
-#Fully Learned<br>    
+Fully Learned<br>    
 ---------Nothing rn---------<br>    
-###Mostly<br>               
-<img src="https://skillicons.dev/icons?i=github,vercel,html,css" /><br> 
-###Kinda<br>         
-<img src="https://skillicons.dev/icons?i=netlify,raspberrypi,blender" /><br>      
-###Looked at <br> 
-<img src="https://skillicons.dev/icons?i=js,replit,prossesorjs" /><br>
-###Gonna try to learn next <br> 
+Mostly<br>               
+<img src="https://skillicons.dev/icons?i=github,vercel,html,css" />
+Kinda<br>         
+<img src="https://skillicons.dev/icons?i=netlify,raspberrypi,blender" />
+Looked at <br> 
+<img src="https://skillicons.dev/icons?i=js,replit,prossesorjs" />
+Gonna Learn Next
 <img src="https://skillicons.dev/icons?i=swift,wordpress" /><br>
 <br>
    
