@@ -8,7 +8,7 @@ const 8bitCAP = {
   Notes: "Very bad at at doing it"
 };
 ```
-
+```
      Fully Learned<br>
                 |<br>
                 |___<br>
