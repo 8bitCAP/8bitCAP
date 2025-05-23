@@ -23,8 +23,8 @@ const 8bitCAP = {
                 |<br>
                 |___<br>
               Not Learned
-
-
+```
+   
 
 <table border="0" style="border-color: transparent;">
   <tr border="0" style="border-color: transparent;">
