@@ -8,7 +8,20 @@ const 8bitCAP = {
   Notes: "Very bad at at doing it"
 };
 ```
-Fully Learned<br>     |<br>     |<br>        mostly<br>        |<br>        | <img src="https://skillicons.dev/icons?i=github,vercel,html,css" /><br>        Kinda  <br>        | <img src="https://skillicons.dev/icons?i=netlify" /><br>        |<br>        | <img src="https://skillicons.dev/icons?i=js" /><br>        looked at <br>     |<br>     |___<br>     Not Learned
+
+
+<br>
+#Fully Learned<br>    
+---------Nothing rn---------<br>    
+###Mostly<br>               
+<img src="https://skillicons.dev/icons?i=github,vercel,html,css" /><br> 
+###Kinda<br>         
+<img src="https://skillicons.dev/icons?i=netlify,raspberrypi,blender" /><br>      
+###Looked at <br> 
+<img src="https://skillicons.dev/icons?i=js,replit,prossesorjs" /><br>
+###Gonna try to learn next <br> 
+<img src="https://skillicons.dev/icons?i=swift,wordpress" /><br>
+<br>
    
 
 <table border="0" style="border-color: transparent;">
