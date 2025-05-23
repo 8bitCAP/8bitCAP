@@ -9,6 +9,22 @@ const 8bitCAP = {
 };
 ```
 
+     Fully Learned<br>
+                |<br>
+                |___<br>
+        mostly  <br>
+                |  <br>
+                |  <img src="https://skillicons.dev/icons?i=github,vercel,html,css" /><br>
+         Kinda  |___ <br>
+                |  <img src="https://skillicons.dev/icons?i=netlify" /><br>
+                |___<br>
+                |  <img src="https://skillicons.dev/icons?i=js" /><br>
+     looked at  |___<br>
+                |<br>
+                |___<br>
+              Not Learned
+
+
 
 <table border="0" style="border-color: transparent;">
   <tr border="0" style="border-color: transparent;">
