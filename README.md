@@ -3,9 +3,9 @@
 
 ```javascript
 const 8bitCAP = {
-  pronouns: "He" | "Him",
-  code: [HTML, CSS, Javascript],
-  Notes: "Very bad at at doing it"
+  pronouns: 'He | Him',
+  code: ['HTML', 'CSS', 'Javascript'],
+  // Notes: Very bad at at doing it
 };
 ```
 
