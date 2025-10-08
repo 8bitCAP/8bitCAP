@@ -5,6 +5,7 @@
 const 8bitCAP = {
   pronouns: 'He | Him',
   code: ['HTML', 'CSS', 'Javascript'],
+  projects: ['CAP_PRIME'],
   // Notes: Very bad at at doing it
 };
 ```
