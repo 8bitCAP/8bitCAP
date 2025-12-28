@@ -17,7 +17,7 @@ Fully Learned<br>
 Mostly<br>               
 <img src="https://skillicons.dev/icons?i=github,vercel,html,css" />
 Kinda<br>         
-<img src="https://skillicons.dev/icons?i=netlify,raspberrypi,blender" />
+<img src="https://skillicons.dev/icons?i=netlify,raspberrypi,blender,py" />
 Looked at <br> 
 <img src="https://skillicons.dev/icons?i=js,replit,prossesorjs" />
 Gonna Learn Next
