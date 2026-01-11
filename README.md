@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&width=435&lines=Hi%2C+I'm+CAP;I+dont+know+why+ur+here;I'm+pretty+bad+at+codeing" alt="Typing SVG" /></a>
 
-
 ```javascript
 const 8bitCAP = {
   pronouns: 'He | Him',
@@ -9,7 +8,6 @@ const 8bitCAP = {
   // Notes: Very bad at at doing it
 };
 ```
-
 
 <br>
 Fully Learned<br>    
@@ -39,3 +37,4 @@ Gonna Learn Next
     <img src="https://tamanotchi.world/i2/23106" alt="It's tamaNOTchi! Click to feed!">
   </a>
 </td>
+<img src="https://8bitcap.evenpixels.com/buttons/cap.png"></img>
