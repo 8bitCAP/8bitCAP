@@ -1,27 +1,39 @@
+ ________  ________  ___  _________  ________  ________  ________   
+|\   __  \|\   __  \|\  \|\___   ___\\   ____\|\   __  \|\   __  \  
+\ \  \|\  \ \  \|\ /\ \  \|___ \  \_\ \  \___|\ \  \|\  \ \  \|\  \ 
+ \ \   __  \ \   __  \ \  \   \ \  \ \ \  \    \ \   __  \ \   ____\
+  \ \  \|\  \ \  \|\  \ \  \   \ \  \ \ \  \____\ \  \ \  \ \  \___|
+   \ \_______\ \_______\ \__\   \ \__\ \ \_______\ \__\ \__\ \__\   
+    \|_______|\|_______|\|__|    \|__|  \|_______|\|__|\|__|\|__|   
+                                                                    
+
 <img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&width=435&lines=Hi%2C+I'm+CAP;I+dont+know+why+ur+here;I'm+pretty+bad+at+codeing" alt="Typing SVG" /></a>
+
 
 ```javascript
 const 8bitCAP = {
   pronouns: 'He | Him',
-  code: ['HTML', 'CSS', 'Javascript'],
-  projects: ['CAP_PRIME'],
-  // Notes: Very bad at at doing it
+  code: ['HTML', 'CSS', 'javascript', 'Python'],
+  current_projects: ['nothin'],
+  old_projects: ['CAP_PRIME', 'Avocado'],
+  //very bad at it
 };
 ```
 
 <br>
 Fully Learned<br>    
----------Nothing rn---------<br>    
+---------Nothing rn---------<br><br>    
 Mostly<br>               
-<img src="https://skillicons.dev/icons?i=github,vercel,html,css" />
+<img src="https://skillicons.dev/icons?i=github,vercel,raspberrypi,html,css" />
 Kinda<br>         
-<img src="https://skillicons.dev/icons?i=netlify,raspberrypi,blender,py" />
+<img src="https://skillicons.dev/icons?i=netlify,blender,py" />
 Looked at <br> 
-<img src="https://skillicons.dev/icons?i=js,replit,prossesorjs" />
+<img src="https://skillicons.dev/icons?i=js,replit" />
 Gonna Learn Next
 <img src="https://skillicons.dev/icons?i=swift,wordpress" /><br>
 <br>
    
+<img src="https://8bitcap.evenpixels.com/buttons/cap.png"></img>
 
 <table border="0" style="border-color: transparent;">
   <tr border="0" style="border-color: transparent;">
@@ -37,4 +49,3 @@ Gonna Learn Next
     <img src="https://tamanotchi.world/i2/23106" alt="It's tamaNOTchi! Click to feed!">
   </a>
 </td>
-<img src="https://8bitcap.evenpixels.com/buttons/cap.png"></img>
