@@ -9,9 +9,8 @@
 
 </pre>
 
-
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=roboto&pause=1000&width=435&lines=Hi%2C+I'm+CAP;I+dont+know+why+ur+here;I'm+pretty+bad+at+codeing" alt="Typing SVG" /></a>
-
 
 ```javascript
 const 8bitCAP = {
@@ -22,27 +21,19 @@ const 8bitCAP = {
   //very bad at it
 };
 ```
+-->
 
-<br>
-Fully Learned<br>    
----------Nothing rn---------<br><br>    
-Mostly<br>               
-<img src="https://skillicons.dev/icons?i=github,vercel,raspberrypi,html,css" />
-Kinda<br>         
-<img src="https://skillicons.dev/icons?i=netlify,blender,py" />
-Looked at <br> 
-<img src="https://skillicons.dev/icons?i=js,replit" />
-Gonna Learn Next
-<img src="https://skillicons.dev/icons?i=swift,wordpress" /><br>
-<br>
-   
+## my skills
+<img src="https://skillicons.dev/icons?i=github,vercel,raspberrypi,html,css,netlify,blender,py,js,replit,bash,git" />
+
+
 <img src="https://8bitcap.evenpixels.com/buttons/cap.png"></img>
 
 <table border="0" style="border-color: transparent;">
   <tr border="0" style="border-color: transparent;">
     <td align="center" valign="middle">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=8bitCAP&&show_icons=true&theme=radical"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=8bitCAP&&show_icons=true&theme=radical"/>
       </a>
     </td>
     <td align="center" valign="middle" border="0" style="border-color: transparent;">
